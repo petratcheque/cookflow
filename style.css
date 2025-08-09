@@ -13,11 +13,11 @@ body {
 
 /* Directory Section */
 .directory-screen {
-    height: 100vh;
+    min-height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
-    background: #fff;
+    background: #fafafa;
     border-bottom: 1px solid #eee;
 }
 
@@ -38,7 +38,7 @@ body {
 .subtitle {
     font-family: Cormorant Garamond, serif;
     font-style: italic;
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     color: #666;
     margin-bottom: 2rem;
 }
@@ -60,7 +60,7 @@ body {
     text-decoration-thickness: 0.5px; /* thinner line */
     text-decoration-color: #bbb;   /* softer grey instead of black */
     text-underline-offset: 3px;    /* small gap between text & underline */
-    padding: 0.8rem 1rem;
+    padding: 0.3rem 1rem;
     transition: color 0.2s ease;
     text-align: center;
 }
@@ -243,6 +243,7 @@ html {
     }
     
     .directory {
-        grid-template-columns: 1fr;
+        grid-template-columns: 1fr 1fr; /* Force exactly 2 columns */
+        font-size: 0.9rem; /* Smaller text */
     }
 }
