@@ -53,4 +53,5 @@ open index.html
 
 ---
 
+Made with ❤️ for efficient cooking.
 This reflects how I organize cooking knowledge. The approach might work for how you think too. Let me know if you try it!
