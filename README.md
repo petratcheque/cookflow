@@ -1,14 +1,16 @@
 # [Cookflow](https://petratcheque.github.io/cookflow/)
 
-What's in the fridge today? A cooking reference system organized around ingredients, not recipes. It helps me cook efficiently fresh meals every day. No meal prep.
+What's in the fridge today? A cooking reference system for spontaneous, fresh cooking—organized around ingredients, not recipes. No meal prep, no planning. Make delicious meals with what you have.
 
 ## The Problem I Solved
 
-My shopping list contains more or less the same core ingredients each time. I needed a way to combine them differently throughout the week, rather than following traditional recipes that require specific shopping lists for individual dishes.
+Existing recipe apps organize information in ways that don't fit my way of thinking in the kitchen.
 
-The system had to reflect how I think in the kitchen: "I have chicken—what goes with chicken?" not "let's browse meal categories."
+They're built around individual dishes that require specific shopping lists. But my shopping list contains more or less the same core ingredients each time—I needed a way to combine them differently throughout the week.
 
-Existing recipe apps organize information in ways that don't match this natural thought process.
+I needed a system that would reflect how I naturally think when cooking: "I have chicken—what goes with chicken?" not "let's browse meal categories" or "what's my meal plan for Tuesday?"
+
+So I organized my kitchen knowledge around ingredients, not recipes. Modular combinations that work with what I already have, designed for spontaneous, fresh cooking.
 
 ## How Cookflow Solves This
 
