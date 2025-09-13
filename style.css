@@ -111,10 +111,10 @@ section h2 {
 }
 
 .item-note {
-    font-style: italic;
-    color: #333;
     font-family: Open Sans, sans-serif;
     font-size: 0.8rem;
+    font-style: italic;
+    color: #333;
 }
 
 .pill {
@@ -125,9 +125,9 @@ section h2 {
     color:#222;
     padding: 0.2rem 0.6rem;
     border-radius: 12px;
+    font-family: Open Sans, sans-serif;
     font-size: 0.7rem;
     font-weight: 500;
-    font-family: Open Sans, sans-serif;
 }
 
 .prep-section {
@@ -180,8 +180,8 @@ footer {
 .about-content h2 {
     font-family: Cormorant Garamond, serif;
     font-size: 2rem;
-    margin-bottom: 1.5rem;
     font-weight: 400;
+    margin-bottom: 1.5rem;
 }
 
 .about-content p {
